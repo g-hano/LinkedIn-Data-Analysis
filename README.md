@@ -31,7 +31,7 @@ The Tableau visualization in this repository provides an interactive plot to ana
 - Filter the data by various attributes such as job position, field of expertise, and education.
 - Hover over data points on the map to view detailed information about LinkedIn users in a specific country.
 
-![dashboard](LinkedIn-Data-Analysis/Dashboard.png)
+ ![dashboard](LinkedIn-Data-Analysis/Dashboard.png)
 ## Usage
 To use the Tableau visualization, follow these steps:
 1. Clone or download this repository to your local machine.
